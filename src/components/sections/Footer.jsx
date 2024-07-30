@@ -88,7 +88,7 @@ const Footer = () => {
           <NavLink href="#Skills">Skills</NavLink>
           <NavLink href="#Experience">Experience</NavLink>
           <NavLink href="#Projects">Projects</NavLink>
-          <NavLink href="#Education">Education</NavLink>
+          {/* <NavLink href="#Education">Education</NavLink> */}
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.twitter} target="display">

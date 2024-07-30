@@ -5,8 +5,8 @@ import emailjs from "@emailjs/browser";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-contnet: center;
-  position: rlative;
+  justify-content: center;
+  position: relative;
   z-index: 1;
   align-items: center;
 `;
@@ -45,7 +45,7 @@ const Desc = styled.div`
   }
 `;
 
-const ContactForm = styled.div`
+const ContactForm = styled.form`
   width: 95%;
   max-width: 600px;
   display: flex;
@@ -106,27 +106,22 @@ const ContactButton = styled.input`
 
 const Contact = () => {
   const form = useRef();
-  const handelSubmit = (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
-      .sendForm(
-        "service_tox7kqs",
-        "template_nv7k7mj",
-        form.current,
-        "SybVGsYS52j2TfLbi"
-      )
+      .sendForm('service_7009hn5', 'template_pcxsykd', form.current, 'MkMUXAHijO3-0BM0A')
       .then(
         (result) => {
           alert("Message Sent");
-          form.current.result();
+          form.current.reset();
         },
         (error) => {
-          alert(error);
+          alert(error.text);
         }
       );
   };
   return (
-    <Container id="Education">
+    <Container id="Contact">
       <Wrapper>
         <Title>Contact</Title>
         <Desc
@@ -136,7 +131,7 @@ const Contact = () => {
         >
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <ContactForm onSubmit={handelSubmit}>
+        <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
