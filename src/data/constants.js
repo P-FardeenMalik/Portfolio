@@ -561,16 +561,16 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
+    title: "Stock Price Pridiction",
+    date: "June 2024",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "This project is a Streamlit web app for predicting stock prices. Users input a stock ID to fetch 20 years of data via yfinance, which is then processed by a Keras model. The app displays historical data and uses a custom function to plot graphs, aiding in stock analysis and prediction.",
     image:
       "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
+    webapp: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
   },
 ];
 
