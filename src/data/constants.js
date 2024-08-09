@@ -2,15 +2,14 @@ export const Bio = {
   name: "Fardeen Malik Pattan",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
-    "UI/UX Designer",
     "Python Programmer",
+    "AI-ML Enthusiast"
   ],
   description:
     "Passionate Computer Science Engineering Student with a drive for innovation and problem-solving. I am ready to make a meaningful contribution and achieve great things, with a positive attitude and a growth mindset",
   github: "https://github.com/P-FardeenMalik",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Resume.pdf?alt=media&token=047d50dd-9631-4d53-aa11-d54fc036885c",
   linkedin: "https://www.linkedin.com/in/fardeen-malik-pattan-5aa238247/",
   twitter: "https://x.com/_FardeenMalik ",
 };
@@ -130,36 +129,6 @@ export const skills = [
 
     ],
   },
-  // {
-  //   title: "Android",
-  //   skills: [
-  //     {
-  //       name: "Java",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-  //     },
-  //     {
-  //       name: "Kotlin",
-  //       image:
-  //         "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-  //     },
-  //     {
-  //       name: "Jetpack Compose",
-  //       image:
-  //         "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png",
-  //     },
-  //     {
-  //       name: "XML",
-  //       image:
-  //         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-  //     },
-  //     {
-  //       name: "Android Studio",
-  //       image:
-  //         "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-  //     },
-  //   ],
-  // },
   {
     title: "Machine Learning",
     skills: [
@@ -186,7 +155,7 @@ export const skills = [
       {
         name: "Google Colab",
         image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/icons8-google-colab-96.png?alt=media&token=119881a9-1fc4-49fd-8c2c-45f283abf789",
       },
       {
         name: "Sk Learn Kit",
@@ -362,26 +331,24 @@ export const experiences = [
 // ];
 
 export const projects = [
-  // {
-  //   id: 11,
-  //   title: "DecisionHub",
-  //   date: "Jan 2024 - Dec 2023",
-  //   description:
-  //     "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-  //   image:
-  //     "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-  //   tags: [
-  //     "React Js",
-  //     "PostgressSQL",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "React Flow",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/DecisionHub",
-  //   webapp: "https://decisionhub.netlify.app/",
-  // },
+  {
+    id: 11,
+    title: "Collaborative Whiteboard",
+    date: "Jan 2024 - Dec 2023",
+    description:
+      "A real-time collaborative whiteboard application built using Node.js, Express, and Socket.IO. This project allows multiple users to draw on a shared canvas, seeing each other's drawings in real-time.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Collaborative-Whiteboard-Pic.png?alt=media&token=11574855-cb7a-4e76-9d7a-ffa3aac621b2",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "Socket.IO",
+    ],
+    category: "web app",
+    github: "https://github.com/P-FardeenMalik/Collaborative-Whiteboard",
+    webapp: "https://decisionhub.netlify.app/",
+  },
   // {
   //   id: 9,
   //   title: "Trackify",
