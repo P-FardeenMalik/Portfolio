@@ -214,7 +214,6 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Completion%20Certificate.pdf?alt=media&token=e535e083-1701-493e-aa15-ee16f28158ce",
   },
-  // {
   //   id: 1,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
   //   role: "DevOps & Fullstack Engineering Intern",
