@@ -331,7 +331,7 @@ export const experiences = [
 
 export const projects = [
   {
-    id: 11,
+    id: 1,
     title: "Collaborative Whiteboard",
     date: "Jan 2024 - Dec 2023",
     description:
@@ -346,10 +346,10 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/P-FardeenMalik/Collaborative-Whiteboard",
-    webapp: "https://decisionhub.netlify.app/",
+    webapp: "",
   },
   {
-    id: 9,
+    id: 2,
     title: "Gemini Clone using Gemini API",
     date: "Jul 2024 - Aug 2024",
     description:
@@ -473,7 +473,7 @@ export const projects = [
   // },
 
   {
-    id: 8,
+    id: 3,
     title: "Stock Price Pridiction",
     date: "May 2024 - June 2024",
     description:
@@ -483,7 +483,7 @@ export const projects = [
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
-    webapp: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
+    webapp: "",
   },
 ];
 
