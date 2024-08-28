@@ -348,31 +348,26 @@ export const projects = [
     github: "https://github.com/P-FardeenMalik/Collaborative-Whiteboard",
     webapp: "https://decisionhub.netlify.app/",
   },
-  // {
-  //   id: 9,
-  //   title: "Trackify",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-  //   tags: [
-  //     "Docker",
-  //     "AWS",
-  //     "DuckDNS",
-  //     "Eslint",
-  //     "Husky",
-  //     "CI/CD",
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Trackify",
-  //   webapp: "https://trackify-management.netlify.app/",
-  // },
+  {
+    id: 9,
+    title: "Gemini Clone using Gemini API",
+    date: "Jul 2024 - Aug 2024",
+    description:
+      "The project boasts a responsive UI with a collapsible sidebar, real-time chat functionality, and dynamic question handling. By integrating the Gemini API, the application fetches and displays accurate responses. This project demonstrates proficiency in React JS, API integration, and modern web development practices.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Screenshot.png?alt=media&token=5da8d52a-16d3-4328-b9a7-aa59cccfd749",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React Js",
+      "Next Js",
+      "API",
+    ],
+    category: "web app",
+    github: "https://github.com/P-FardeenMalik/Gemini-Clone",
+    webapp: "",
+  },
   // {
   //   id: 0,
   //   title: "Podstream",
