@@ -355,7 +355,7 @@ export const projects = [
     description:
       "The project boasts a responsive UI with a collapsible sidebar, real-time chat functionality, and dynamic question handling. By integrating the Gemini API, the application fetches and displays accurate responses. This project demonstrates proficiency in React JS, API integration, and modern web development practices.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Screenshot.png?alt=media&token=5da8d52a-16d3-4328-b9a7-aa59cccfd749",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Gemini_Screenshort.png?alt=media&token=aecc1fe0-d609-468b-92de-04207d21245a",
     tags: [
       "HTML",
       "CSS",
