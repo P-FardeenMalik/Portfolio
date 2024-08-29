@@ -251,11 +251,12 @@ export const projects = [
       "JavaScript",
       "React Js",
       "Next Js",
+      "Vite",
       "API",
     ],
     category: "web app",
     github: "https://github.com/P-FardeenMalik/Gemini-Clone",
-    webapp: "",
+    webapp: "https://gemini-clone-fardeen.vercel.app/",
   },
 
   {
