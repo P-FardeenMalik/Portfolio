@@ -272,5 +272,19 @@ export const projects = [
     github: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
     webapp: "",
   },
+
+  //   {
+  //   id: 3,
+  //   title: "Stock Price Pridiction",
+  //   date: "May 2024 - June 2024",
+  //   description:
+  //     "This project is a Streamlit web app for predicting stock prices. Users input a stock ID to fetch 20 years of data via yfinance, which is then processed by a Keras model.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Img.png?alt=media&token=b448eb9c-c7e0-4327-a0cb-0c6ded5d6a00",
+  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+  //   category: "machine learning",
+  //   github: "https://github.com/P-FardeenMalik/Stock-Price-Prediction",
+  //   webapp: "",
+  // },
 ];
 
