@@ -9,7 +9,7 @@ export const Bio = {
     "Passionate Computer Science Engineering Student with a drive for innovation and problem-solving. I am ready to make a meaningful contribution and achieve great things, with a positive attitude and a growth mindset",
   github: "https://github.com/P-FardeenMalik",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Resume.pdf?alt=media&token=5cebeb26-491b-4f8b-a607-8b2921e20ab9",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Resume.pdf?alt=media&token=145b08db-a223-47b5-bc96-a3e6aa277379",
   linkedin: "https://www.linkedin.com/in/fardeen-malik-pattan-5aa238247/",
   twitter: "https://x.com/_FardeenMalik ",
 };
