@@ -204,14 +204,19 @@ export const experiences = [
     role: "Aritifical Intelligence Intern",
     company: "CodSoft",
     date: "June 2024 - July 2024",
-    desc: " Gained hands-on experience in developing AI projects, including a Movie Recommendation System, a Rule-Based Chatbot, and an AI-powered Tic-Tac-Toe game.  Enhanced coding skills in Python, Python libraries, and JavaScript, with a strong focus on Jupyter Notebook for data analysis and machine learning.  Successfully managed and completed multiple projects, demonstrating the ability to work independently and collaboratively in a team environment.  Developed and maintained clear and concise documentation for all projects, ensuring reproducibility and ease of understanding for future developers.
+    desc: "Gained hands-on experience in developing AI projects, including a Movie Recommendation System, a Rule-Based Chatbot, and an AI-powered Tic-Tac-Toe game.  Enhanced coding skills in Python, Python libraries, and JavaScript, with a strong focus on Jupyter Notebook for data analysis and machine learning.  Successfully managed and completed multiple projects, demonstrating the ability to work independently and collaboratively in a team environment.  Developed and maintained clear and concise documentation for all projects, ensuring reproducibility and ease of understanding for future developers.
 ",
     skills: [
-      "Jupyter Notebook",
+      
       "Python",
-      "TypeScript",
-      "JavaScript",
-      "HTML",
+      "Tensorflow",
+      "Keras",
+      "Pandas",
+      "Numpy",
+      "Scikit-Learn",
+      "Streamlit",
+      "Jupyter Notebook",
+      "NLTK",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Completion%20Certificate.pdf?alt=media&token=e535e083-1701-493e-aa15-ee16f28158ce",
   },
