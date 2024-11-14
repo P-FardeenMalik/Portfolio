@@ -6,7 +6,7 @@ export const Bio = {
     "AI-ML Enthusiast"
   ],
   description:
-    "Passionate Computer Science Engineering Student with a drive for innovation and problem-solving. I am ready to make a meaningful contribution and achieve great things, with a positive attitude and a growth mindset",
+    "Passionate about Technology with a drive for innovation and problem-solving. I am ready to make a meaningful contribution and achieve great things, with a positive attitude and a growth mindset",
   github: "https://github.com/P-FardeenMalik",
   resume:
     "https://firebasestorage.googleapis.com/v0/b/portfolio-34e7c.appspot.com/o/Resume.pdf?alt=media&token=29ddf84a-3fa1-458f-9a88-98920dccbca7",
